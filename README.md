@@ -15,4 +15,4 @@ Architecture
 - Network: Virtual Internal Network and NAT for internet
 
 
-[Uploading Untitled Diagram.drawio…]()
+![Untitled Diagram](https://github.com/user-attachments/assets/bc0bcede-8241-445e-9297-74578f987cbf)
