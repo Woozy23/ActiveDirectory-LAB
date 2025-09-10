@@ -28,3 +28,15 @@ Steps Taken
 - Applied Group Policies (ex: enforcing password rules and restricting access to various settings)
 - Joined multiple client VMs to the domain
 - Verified policies and login authentication
+
+## Documentation
+
+- [IP Addressing Plan](Documentation/IP-Plan.md)
+- [Group Policy Examples](Documentation/GPO-Examples.md)
+- [Troubleshooting Notes]()
+
+## Screenshots
+
+![Active Directory Users](Screenshots/ad-users.png)
+![GPO Example](Screenshots/GPO-Examples.png)
+![Client Domain Login](Screenshots/Client_Log-in.png)
