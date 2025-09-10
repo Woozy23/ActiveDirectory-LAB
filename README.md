@@ -45,6 +45,6 @@ Steps Taken
 
 ## Screenshots
 
-![Active Directory Users](Screenshots/AD-users.png)
+![Active Directory Users]()
 ![GPO Example](Screenshots/GPO-Examples.png)
-![Client Domain Login](Screenshots/Client_Login.png)
+![Client Domain Login]()
