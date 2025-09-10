@@ -14,6 +14,14 @@ Architecture
 - Client: Windows 10 Pro
 - Network: Virtual Internal Network and NAT for internet
 
+Skills Utilized
+
+- Active Directory
+- DNS
+- DHCP
+- GPO
+- Virtualization
+
 
 ![Untitled Diagram](https://github.com/user-attachments/assets/bc0bcede-8241-445e-9297-74578f987cbf)
 
@@ -33,7 +41,7 @@ Steps Taken
 
 - [IP Addressing Plan](Documentation/IP-Plan.md)
 - [Group Policy Examples](Documentation/GPO-Examples.md)
-- [Troubleshooting Notes]()
+- [Troubleshooting Notes](Documentation/Troubleshooting.md)
 
 ## Screenshots
 
