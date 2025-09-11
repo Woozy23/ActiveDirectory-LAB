@@ -7,6 +7,10 @@ Overview
 
 Designed and deployed a Windows Server 2022 Domain Controller in a Virtualbox environment, afterwards I configured Active Directory, DNS, and Group Policy, and joined multiple Windows 10 pro client machines to the domain. I created users, groups(OU), and applied GPOs to enforce security policies and manage access. I've included links to my IP addressing plan , GPO examples used for testing, and some issues I ran into , the reason for them, and how I got them fixed.
 
+Hardware Requirements
+
+- Minimum : 2GB on DomainController & 2GB on Client VMs
+- Recommended : 6GB on DomainController & 4GB on Domain VMs
 
 Architecture
 
