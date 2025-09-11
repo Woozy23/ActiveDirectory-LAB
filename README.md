@@ -39,7 +39,7 @@ Designed and deployed a Windows Server 2022 Domain Controller in a Virtualbox en
 ![Untitled Diagram](https://github.com/user-attachments/assets/bc0bcede-8241-445e-9297-74578f987cbf)
 
 
-Steps Taken
+# Steps Taken
 
 - Installed Windows Server 2022 and promoted to Domain controller
 - Installed Windows 10 Pro into multiple client VMs
