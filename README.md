@@ -10,8 +10,8 @@ Designed and deployed a Windows Server 2022 Domain Controller in a Virtualbox en
 
 Architecture
 
-- DC: Windows Server 2022 (Active Directory and DNS)
-- Client: Windows 10 Pro
+- DC: Windows Server 2022 (Active Directory and DNS) (ISO)
+- Clients: Windows 10 Pro (ISO)
 - Network: Virtual Internal Network and NAT for internet
 
 Skills Utilized
