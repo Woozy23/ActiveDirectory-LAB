@@ -26,6 +26,15 @@ Skills Utilized
 - GPO
 - Virtualization
 
+Objective For Project
+
+- Understand the fundamental concepts of Active Directory and its role in network administration
+- Develop skills in utilizing virtualization software (such as VMWare) to create and manage virtual machines
+- Learn to set up and manage a Domain Controller within a network infrastructure
+- Develop problem-solving skills through troubleshooting any issues encountered during the setup and configuration process
+- Acquire proficiency in using PowerShell scripting to automate administrative tasks within a Windows environment
+- Understand domain connectivity principles and authentication mechanisms, exemplified through logging into user accounts within a domain environment
+
 
 ![Untitled Diagram](https://github.com/user-attachments/assets/bc0bcede-8241-445e-9297-74578f987cbf)
 
