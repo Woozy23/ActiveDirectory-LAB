@@ -36,7 +36,9 @@ Designed and deployed a Windows Server 2022 Domain Controller in a Virtualbox en
 - Understand domain connectivity principles and authentication mechanisms, exemplified through logging into user accounts within a domain environment
 
 
-![Untitled Diagram](https://github.com/user-attachments/assets/bc0bcede-8241-445e-9297-74578f987cbf)
+
+[lab.trial.drawio](https://github.com/user-attachments/files/22304126/lab.trial.drawio)
+
 
 
 ## Steps Taken
