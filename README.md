@@ -37,7 +37,8 @@ Designed and deployed a Windows Server 2022 Domain Controller in a Virtualbox en
 
 
 
-[lab.trial.drawio](https://github.com/user-attachments/files/22304126/lab.trial.drawio)
+<img width="848" height="694" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/5100c85f-5e1c-4283-ab7f-a0a1f901583d" />
+
 
 
 
