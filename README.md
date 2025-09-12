@@ -50,6 +50,8 @@ Designed and deployed a Windows Server 2022 Domain Controller in a Virtualbox en
 - Joined multiple client VMs to the domain
 - Verified policies and login authentication
 
+(I've addressed the issues I came across in the link below)
+
 ## Documentation
 
 - [IP Addressing Plan](Documentation/IP-Plan.md)
