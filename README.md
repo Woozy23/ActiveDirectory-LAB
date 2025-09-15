@@ -30,7 +30,7 @@ Designed and deployed a Windows Server 2022 Domain Controller in a Virtualbox en
 # Objective For Project
 
 - Understand the fundamental concepts of Active Directory and its role in network administration
-- Develop skills in utilizing virtualization software (such as VMWare) to create and manage virtual machines
+- Develop skills in utilizing virtualization software to create and manage virtual machines
 - Learn to set up and manage a Domain Controller within a network infrastructure
 - Develop problem-solving skills through troubleshooting any issues encountered during the setup and configuration process
 - Acquire proficiency in using PowerShell scripting to automate administrative tasks within a Windows environment
