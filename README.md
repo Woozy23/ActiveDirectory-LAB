@@ -20,11 +20,12 @@ Designed and deployed a Windows Server 2022 Domain Controller in a Virtualbox en
 
 # Skills Utilized
 
-- Active Directory
-- DNS
-- DHCP
-- GPO
+- Active Directory installation & management
+- DNS/DHCP configuration
+- Group Policy administration
+- Windows client/server networking
 - Virtualization
+- IT troubleshooting & documentation
 
 # Objective For Project
 
